@@ -3,18 +3,7 @@
 
 ## 📬 Контакты
 
-<a href="https://t.me/vadtverdohlebov" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000"/>
-</a>
-<a href="https://github.com/VadimTverdokhlebov" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000"/>
-</a>
-<a href="https://wa.me/89181276512" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000"/>
-</a>
-<a href="mailto:vadtverdohlebov@mail.ru">
-<img src="https://img.shields.io/badge/Email-vadtverdohlebov@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/>
-</a>
+<a href="https://t.me/vadtverdohlebov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000"/></a> <a href="https://github.com/VadimTverdokhlebov" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000"/></a> <a href="https://wa.me/89181276512" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000"/></a> <a href="mailto:vadtverdohlebov@mail.ru"><img src="https://img.shields.io/badge/Email-vadtverdohlebov@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/></a>
 
 ## 💻 Профессиональный опыт
 
